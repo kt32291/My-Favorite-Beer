@@ -1,0 +1,18 @@
+body { font-family: arial; background-color:#61B4CF;}
+header {text-align: center;}
+h1 {text-align: center;
+    color:#FF2800;
+    font-size: 60px;
+    border-bottom: 2px solid #024E68;
+    margin:20px;
+    text-shadow: 4px 4px gray;}
+h2 {color:#024E68;
+    font-family:"arial";
+    font-size: 30px;
+    text-shadow: 2px 3px gray;}
+.american {color:blue; font-family:"Helvetica";}
+.foreign {color:red; font-family:"Times New Roman";}
+#ipas {float:right;}
+#stouts {float:right;
+        clear:right;}
+
